@@ -7,6 +7,7 @@ A small program I found in my old school work that was done for bonus points in 
 This is a C++ program, so g++ will be required.
 
 `g++ main.cpp -o queens`
+
 `./queens` 
 
 Follow the directions and enjoy! Feel free to use it yourself for some bonus points.
